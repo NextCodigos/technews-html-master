@@ -1,0 +1,12 @@
+La navegacion principal tiene 3seciones:
+Una imagen.
+Una lista ul de navegacion.
+Una lupa para buscar,podria ser otro ul.
+
+Vamos a font-awesone para descargar fuente fondo de pantalla.
+
+Google fonts Oswald para texto fuentes.
+
+Descargar imagenes pexels.com
+
+
